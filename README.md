@@ -5,7 +5,7 @@ Since i was very young, i have been passionate about computing and technology, s
 
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; ">
   <a href="https://github.com/JOSEFTALSON">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOSEFTALSON&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOSEFTALSON&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
     <img height+"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSEFTALSON&layout=compact&langs_count=7&theme=dracula"/>
   
 </a>
