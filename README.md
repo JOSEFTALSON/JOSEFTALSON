@@ -19,7 +19,7 @@ Since i was very young, i have been passionate about computing and technology, s
 <a href="https://github.com/JOSEFTALSON" style="margin:10px; display:flex">
     
   
-  <img align="center" alt="JOSEF-PHP" height="30" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="JOSEF-PHP"height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="JOSEF-Java" height="30" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
   
